@@ -1,0 +1,98 @@
+{
+  "event_253": {
+    "amount": 4365000.0,
+    "currency": "IDR",
+    "image_id": "image_01",
+    "description": "August 2019 net salary"
+  },
+  "event_1442": {
+    "amount": 100000.0,
+    "currency": "INR",
+    "image_id": "image_02",
+    "description": "Outstanding rent balance"
+  },
+  "event_1545": {
+    "amount": 41272.0,
+    "currency": "INR",
+    "image_id": "image_03",
+    "description": "Bulk groceries and pantry purchase"
+  },
+  "event_1700": {
+    "amount": 2854.0,
+    "currency": "INR",
+    "image_id": "image_04",
+    "description": "Delivered grocery order"
+  },
+  "event_1786": {
+    "amount": 704.05,
+    "currency": "INR",
+    "image_id": "image_05",
+    "description": "Outstanding telecom bill"
+  },
+  "event_3051": {
+    "amount": 1995.0,
+    "currency": "INR",
+    "image_id": "image_06",
+    "description": "Grocery tax invoice"
+  },
+  "event_4535": {
+    "amount": 15339.0,
+    "currency": "INR",
+    "image_id": "image_08",
+    "description": "Property maintenance invoice"
+  },
+  "event_5170": {
+    "amount": 723.0,
+    "currency": "INR",
+    "image_id": "image_09",
+    "description": "Water bill due"
+  },
+  "event_6033": {
+    "amount": 79679.26,
+    "currency": "INR",
+    "image_id": "image_10",
+    "description": "Large grocery tax invoice"
+  },
+  "event_6859": {
+    "amount": 3650.0,
+    "currency": "INR",
+    "image_id": "image_11",
+    "description": "Hospital bill payable"
+  },
+  "event_7941": {
+    "amount": 2298.0,
+    "currency": "INR",
+    "image_id": "image_13",
+    "description": "Tote bag order"
+  },
+  "event_9421": {
+    "amount": 4543.0,
+    "currency": "INR",
+    "image_id": "image_14",
+    "description": "Pharmacy purchase"
+  },
+  "event_9806": {
+    "amount": 9968.0,
+    "currency": "INR",
+    "image_id": "image_15",
+    "description": "Airline ticket purchase"
+  },
+  "event_10521": {
+    "amount": 393.22,
+    "currency": "INR",
+    "image_id": "image_16",
+    "description": "EV charging wallet payment"
+  },
+  "event_3231": {
+    "amount": 8528.0,
+    "currency": "INR",
+    "image_id": "image_07",
+    "description": "Restaurant tax invoice"
+  },
+  "event_7307": {
+    "amount": 33.5,
+    "currency": "USD",
+    "image_id": "image_12",
+    "description": "Taxi fare"
+  }
+}
