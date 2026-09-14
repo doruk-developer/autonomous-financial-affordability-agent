@@ -10,6 +10,7 @@ An autonomous, multimodal financial decision agent that evaluates user expense r
 
 The solution employs a high-precision, hybrid architecture combining **Multimodal Vision-Language Models (VLM)** for document extraction with a **Deterministic Cashflow Simulation Engine** for mathematical guarantees.
 
+```text
 +------------------------------+
               | 16 Document Images (Receipts)|
               +--------------+---------------+
@@ -25,6 +26,7 @@ v
 | output.csv (Root) |
 | (Verified Schema) |
 +-----------------------+
+```
 
 ### Key Architectural Pillars:
 1. **Deterministic 90-Day Ledger Simulation:**
